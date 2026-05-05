@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"c:\\\\Users\\\\swapn\\\\Desktop\\\\My Story\\\\LifeOfShiva\\\\Purana-Research\\\\Shiva-Purana\" \"c:\\\\Users\\\\swapn\\\\Desktop\\\\My Story\\\\LifeOfShiva\\\\Purana-Research\\\\Linga-Purana\" \"c:\\\\Users\\\\swapn\\\\Desktop\\\\My Story\\\\LifeOfShiva\\\\Purana-Research\\\\Vishnu-Purana\" \"c:\\\\Users\\\\swapn\\\\Desktop\\\\My Story\\\\LifeOfShiva\\\\Purana-Research\\\\Other-Puranas\" \"c:\\\\Users\\\\swapn\\\\Desktop\\\\My Story\\\\LifeOfShiva\\\\Purana-Research\\\\Shiva-General\" && echo \"Done\")",
+      "WebSearch",
+      "WebFetch(domain:www.wisdomlib.org)",
+      "WebFetch(domain:www.mahakavya.com)",
+      "WebFetch(domain:hinduonline.co)",
+      "WebFetch(domain:www.vyasaonline.com)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:www.rudraksha-ratna.com)",
+      "WebFetch(domain:www.sudhanshujimaharaj.net)",
+      "WebFetch(domain:prayagpandits.com)",
+      "WebFetch(domain:www.templepurohit.com)",
+      "WebFetch(domain:gejuff.com)",
+      "WebFetch(domain:travelsifar.com)",
+      "WebFetch(domain:www.britannica.com)",
+      "WebFetch(domain:www.centreofexcellence.com)",
+      "WebFetch(domain:mahakatha.com)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\swapn\\Desktop\\My Story\\LifeOfShiva\\Purana-Research"
+    ]
+  }
+}
