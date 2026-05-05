@@ -11,6 +11,54 @@ Purana-Research/
 │
 ├── MASTER-INDEX.md (this file)
 │
+├── Downloaded-Source-Material/          ← PRIMARY INTERNET-DOWNLOADED CONTENT
+│   ├── 01-Shiva-Purana-Complete-TOC-wisdomlib.md       ← 457-chapter TOC (wisdomlib)
+│   ├── 02-Linga-Purana-Complete-TOC-wisdomlib.md       ← 163-chapter TOC (wisdomlib)
+│   ├── 03-Shiva-Purana-Primary-Verses-Sati-Parvati.md  ← VERSE-BY-VERSE TRANSLATIONS
+│   │   (Sati-khanda: Ch.14,18,27,28,29,30,31,33,37 | Parvati-khanda: Ch.22,48 | Yuddha-khanda: Ch.9-10)
+│   ├── 04-Wikipedia-Puranas-Garuda-Narada-Agni-Brahma-Varaha-Vamana.md
+│   │   (6 Puranas: full Wikipedia articles)
+│   ├── 05-Wikipedia-Puranas-Brahmavaivarta-Bhavishya-DeviB-Skanda-Kurma-Lingam.md
+│   │   (5 Puranas + Lingam symbol + Tripurantaka: full Wikipedia articles)
+│   ├── 06-Wikipedia-Daksha-Sati-Parvati-Virabhadra.md  ← KEY CHARACTERS (Wikipedia)
+│   ├── 07-Wikipedia-Kartikeya-Ganesha.md               ← SHIVA'S SONS (Wikipedia)
+│   ├── 08-Shiva-Purana-Lingodbhava-Kama-Grief.md       ← LINGODBHAVA + KAMA DAHAN VERSES
+│   │   (Vidyeshvara-Samhita Ch.6-7: pillar of fire | Parvati-khanda Ch.82-85: Kama burned | Devi-Bhagavata: Sati grief)
+│   ├── 09-Wikipedia-Shiva-Key-Stories-Samudra-Kama-Jalandhara.md
+│   │   (Samudra Manthan, Halahala/Neelkanth, Jalandhara, Andhaka, Kamadeva, Daksha Yajna — full Wikipedia articles)
+│   ├── 10-Linga-Purana-Key-Chapters-wisdomlib.md        ← LINGA PURANA PRIMARY VERSES (wisdomlib)
+│   │   (Ch.17: Lingodbhava — infinite pillar of fire | Ch.18: Vishnustava 91 verses | Ch.22: Birth of 11 Rudras)
+│   │   (Ch.65: Rudra-Sahasranama — 750+ names with meanings | Ch.106: Tandava dance — Kali/Daruka context)
+│   ├── 11-Bhagavata-Purana-Samudra-Manthan-Neelkanth.md ← BHAGAVATA: SAMUDRA MANTHAN VERSES (wisdomlib)
+│   │   (8.5-8.9: Durvasa's curse, churning plan, Mandara, Vasuki, Halahala, Shiva drinking poison → Neelkanth, 14 Ratnas)
+│   ├── 12-Wikipedia-Kailash-Nandi-Bhairava-Nataraja-Rudraksha-Shiva.md  ← CORE SHIVA ICONOGRAPHY
+│   │   (Mount Kailash | Nandi | Bhairava | Nataraja | Rudraksha | Shiva main article — full Wikipedia)
+│   ├── 13-Shiva-Purana-Parvati-Tests-Acceptance.md     ← PARVATI-KHANDA: TESTS & ACCEPTANCE (wisdomlib)
+│   ├── 14-Shiva-Purana-Kumara-Kartikeya-Birth.md       ← KUMARA-KHANDA: KARTIKEYA BIRTH (wisdomlib)
+│   │   (Tarakasura's boon | Shiva's seed → Agni → Ganga → Krittikas | Six faces nursing | Taraka slain)
+│   ├── 15-Wikipedia-Ganga-Shivaratri-Bhagiratha-Tarakasura-Ardhanarishvara.md
+│   │   (Gangadhara | Maha Shivaratri all legends | Bhagiratha | Tarakasura | Ardhanarishvara | Dakshinamurthy)
+│   ├── 16-Wikipedia-Padma-Matsya-Vishnu-Bhagavata-Brahmanda-Linga-Puranas.md
+│   │   (6 Purana full Wikipedia articles — Shiva Gita in Padma, Bhagavata all 12 cantos with Shiva flags)
+│   ├── 17-Shiva-Purana-Ganesha-Birth.md                ← KUMARA-KHANDA: GANESHA BIRTH (wisdomlib)
+│   │   (Ch.13-20: bodily creation, gatekeeper confrontation, beheading by deception, elephant head, coronation)
+│   ├── 18-Wikipedia-Mahabharata-Shiva-Kirata-Pashupata-Banasura.md
+│   │   (Kiratarjuniya | Pashupatastra | Upamanyu | Banasura | Shiva Tandava Stotram | Kailash Mansarovar)
+│   ├── 19-Shiva-Purana-Vayaviya-Ganga-Jyotirlinga.md  ← VAYAVIYA-SAMHITA + JYOTIRLINGAS (wisdomlib)
+│   │   (Vayaviya-Samhita philosophy | Jalandhara complete arc | 8 Jyotirlinga stories: Somnath, Mahakala, Kashi...)
+│   ├── 20-Shiva-Purana-Remaining-Jyotirlingas.md       ← FINAL 4 JYOTIRLINGAS (wisdomlib)
+│   │   (Vaidyanatha: Ravana's 9-head sacrifice | Nageshvara | Rameshvara: Rama's prayer | Ghrishneshvara)
+│   ├── 21-Wikipedia-Shaivism-Philosophy-Schools-Markandeya.md
+│   │   (Shaivism overview | Kashmir Shaivism | Pashupata | Lingayatism | Shaiva Siddhanta | Markandeya)
+│   └── 22-Kurma-Purana-Ishvara-Gita-wisdomlib.md       ← ISHVARA GITA ALL 11 CHAPTERS
+│       (Tagare translation + 1924 Kannoo Mal translation | All 11 chapters detailed | Ashta Murtis | Liberation)
+│       (Full Parvati-khanda TOC with all 55 chapter doc IDs | Ch.21: Narada instructs Parvati)
+│       (Ch.22: 3 stages of penance — fruit/leaves/nothing + Pancha-agni | Ch.23: Himavat tries to stop her)
+│       (Ch.24: Shiva's reluctant consent | Ch.25: Seven Sages test Parvati — 73 verses)
+│       (Ch.26: Parvati-Jatila dialogue — FULL TEXT | Ch.27: Brahmin's fraudulent words — all 39 verses)
+│       (Ch.28: Shiva reveals himself + "I am your slave bought by penance" | Ch.32-33: Seven Sages persuade Himavat)
+│       (Ch.36: Final betrothal — "Be pleasing to Shiva" | Full narrative arc + key quotes for writing)
+│
 ├── Shiva-Purana/
 │   ├── 01-Overview-and-Structure.md
 │   ├── 02-Key-Stories-and-Narratives.md
@@ -64,10 +112,31 @@ Purana-Research/
 
 | Topic | File |
 |-------|------|
+| **PRIMARY VERSES: Sati's birth, marriage, death; Parvati's tapasya, marriage** | **Downloaded-Source-Material/03-Shiva-Purana-Primary-Verses-Sati-Parvati** |
+| **PRIMARY VERSES: Virabhadra destroys Daksha's yajna (Ch.33,37); Tripura (Ch.9-10)** | **Downloaded-Source-Material/03-Shiva-Purana-Primary-Verses-Sati-Parvati** |
+| **Wikipedia: Daksha, Sati, Parvati, Virabhadra — complete articles** | **Downloaded-Source-Material/06-Wikipedia-Daksha-Sati-Parvati-Virabhadra** |
+| **Wikipedia: Kartikeya (all 108 names), Ganesha (all birth stories)** | **Downloaded-Source-Material/07-Wikipedia-Kartikeya-Ganesha** |
+| Wikipedia: Garuda, Narada, Agni, Brahma, Varaha, Vamana Puranas | Downloaded-Source-Material/04-Wikipedia-Puranas-Garuda-Narada-Agni-Brahma-Varaha-Vamana |
+| Wikipedia: Brahmavaivarta, Bhavishya, Devi Bhagavata, Skanda, Kurma + Lingam + Tripurantaka | Downloaded-Source-Material/05-Wikipedia-Puranas-Brahmavaivarta-Bhavishya-DeviB-Skanda-Kurma-Lingam |
+| **PRIMARY VERSES: Lingodbhava (infinite pillar), Kama Dahan (Kama burned), Sati's grief journey** | **Downloaded-Source-Material/08-Shiva-Purana-Lingodbhava-Kama-Grief** |
+| Wikipedia: Samudra Manthan, Neelkanth, Jalandhara, Andhaka, Kamadeva, Daksha Yajna | Downloaded-Source-Material/09-Wikipedia-Shiva-Key-Stories-Samudra-Kama-Jalandhara |
+| **PRIMARY VERSES: Bhagavata Purana — Samudra Manthan, Halahala, Shiva as Neelkanth** | **Downloaded-Source-Material/11-Bhagavata-Purana-Samudra-Manthan-Neelkanth** |
+| Wikipedia: Kailash, Nandi, Bhairava, Nataraja, Rudraksha + main Shiva article (110KB) | Downloaded-Source-Material/12-Wikipedia-Kailash-Nandi-Bhairava-Nataraja-Rudraksha-Shiva |
+| **PRIMARY VERSES: Kartikeya birth — Tarakasura's boon, seed through Agni/Ganga/Krittikas, Shanmukha, battle** | **Downloaded-Source-Material/14-Shiva-Purana-Kumara-Kartikeya-Birth** |
+| Wikipedia: Gangadhara, Maha Shivaratri (all 4 legends), Bhagiratha, Tarakasura, Ardhanarishvara, Dakshinamurthy | Downloaded-Source-Material/15-Wikipedia-Ganga-Shivaratri-Bhagiratha-Tarakasura-Ardhanarishvara |
+| Wikipedia: Padma, Matsya, Vishnu, Bhagavata (all 12 cantos), Brahmanda, Linga Puranas | Downloaded-Source-Material/16-Wikipedia-Padma-Matsya-Vishnu-Bhagavata-Brahmanda-Linga-Puranas |
+| **PRIMARY VERSES: Ganesha birth — creation, gatekeeper, beheading by deception, elephant head, coronation** | **Downloaded-Source-Material/17-Shiva-Purana-Ganesha-Birth** |
+| Wikipedia: Kiratarjuniya, Pashupatastra, Upamanyu, Banasura, Shiva Tandava Stotram, Kailash Mansarovar | Downloaded-Source-Material/18-Wikipedia-Mahabharata-Shiva-Kirata-Pashupata-Banasura |
+| **PRIMARY VERSES: Vayaviya philosophy, Jalandhara complete arc, 8 Jyotirlinga origin stories** | **Downloaded-Source-Material/19-Shiva-Purana-Vayaviya-Ganga-Jyotirlinga** |
+| **PRIMARY VERSES: Final 4 Jyotirlingas — Vaidyanatha (Ravana), Nageshvara, Rameshvara (Rama), Ghrishneshvara** | **Downloaded-Source-Material/20-Shiva-Purana-Remaining-Jyotirlingas** |
+| Wikipedia: Shaivism schools overview, Kashmir Shaivism, Pashupata, Lingayatism, Shaiva Siddhanta, Markandeya | Downloaded-Source-Material/21-Wikipedia-Shaivism-Philosophy-Schools-Markandeya |
+| **ALL 11 Ishvara Gita chapters (Kurma Purana) — Ashta Murtis, Pashupata Yoga, liberation, Bhakti** | **Downloaded-Source-Material/22-Kurma-Purana-Ishvara-Gita-wisdomlib** |
 | Shiva Purana structure, samhitas | Shiva-Purana/01-Overview |
 | All major Shiva stories (Sati, Parvati, Kartikeya, etc.) | Shiva-Purana/02-Key-Stories |
 | 12 Jyotirlingas — complete with legends | Shiva-Purana/03-Jyotirlingas |
 | Linga Purana content, chapters | Linga-Purana/01-Linga-Purana |
+| **PRIMARY VERSES: Lingodbhava (Ch.17), Vishnustava (Ch.18), Birth of Rudras (Ch.22), Rudra-Sahasranama (Ch.65), Tandava (Ch.106)** | **Downloaded-Source-Material/10-Linga-Purana-Key-Chapters-wisdomlib** |
+| **PRIMARY VERSES: Parvati's tapasya stages, Seven Sages test, Shiva as disguised Brahmin, Shiva's revelation, Himavat's acceptance** | **Downloaded-Source-Material/13-Shiva-Purana-Parvati-Tests-Acceptance** |
 | Skanda Purana — Varanasi stories | Other-Puranas/01-Skanda |
 | Vishnu/Bhagavata Purana Shiva sections | Other-Puranas/02-Vishnu-Bhagavata |
 | All 18 Puranas summary reference | Other-Puranas/03-All-18-Puranas |
@@ -358,5 +427,34 @@ SHIVA (Paramashiva — the Absolute)
   - `06-Kurma-Purana-Ishvara-Gita.md` — Added critical edition structure (95 chapters), dating, scholar quotes, philosophical topics, textual sources
   - `07-Markandeya-Purana-Shiva.md` — Added 137-chapter structure table, manuscript dates, dating evidence, Devi Mahatmya details, influence on Sikhism
   - `Shiva-Purana/01-Overview-and-Structure.md` — Added complete WisdomLib edition data with all 7 samhitas chapter-by-chapter
+- **2026-05-05 (Session 3):** Fetched actual verse-by-verse primary source content from wisdomlib.org. Multiple Wikipedia articles downloaded. New files created:
+  - `Downloaded-Source-Material/03-Shiva-Purana-Primary-Verses-Sati-Parvati.md` — Full verse translations: Sati-khanda Ch.14 (Sati's birth), Ch.18 (Shiva-Sati marriage), Ch.27-30 (Daksha's yajna → Sati's death), Ch.31 (Celestial Voice), Ch.33 (Virabhadra's march), Ch.37 (Destruction of yajna, Daksha killed — all 68 verses); Parvati-khanda Ch.22 (tapasya), Ch.48 (marriage); Yuddha-khanda Ch.9-10 (Tripurasura/Three Cities burnt)
+  - `Downloaded-Source-Material/04-Wikipedia-Puranas-Garuda-Narada-Agni-Brahma-Varaha-Vamana.md` — Full Wikipedia articles for 6 Puranas
+  - `Downloaded-Source-Material/05-Wikipedia-Puranas-Brahmavaivarta-Bhavishya-DeviB-Skanda-Kurma-Lingam.md` — Full Wikipedia articles for 5 Puranas + Lingam symbol + Tripurantaka
+  - `Downloaded-Source-Material/06-Wikipedia-Daksha-Sati-Parvati-Virabhadra.md` — Full Wikipedia articles for Daksha, Sati, Parvati, Virabhadra (all key characters)
+  - `Downloaded-Source-Material/07-Wikipedia-Kartikeya-Ganesha.md` — Full Wikipedia articles for Kartikeya (all 108 names) and Ganesha (all birth stories)
+- **2026-05-05 (Session 4):** Fetched primary verse content from wisdomlib.org and Wikipedia. New files created:
+  - `Downloaded-Source-Material/08-Shiva-Purana-Lingodbhava-Kama-Grief.md` — Vidyeshvara-Samhita Ch.6-7 (Lingodbhava — Brahma/Vishnu dispute + infinite pillar, all verses); Parvati-khanda Ch.82-85 (Kama Dahan — Kama burned, Rati's grief, Shiva's promise, 52 verses); Devi-Bhagavata version of Shiva's grief wandering with Sati's body → 108 Shakti Pithas created
+  - `Downloaded-Source-Material/09-Wikipedia-Shiva-Key-Stories-Samudra-Kama-Jalandhara.md` — Full Wikipedia articles: Samudra Manthan (Halahala/Neelkanth), Jalandhara, Andhaka, Kamadeva, Daksha Yajna — complete narrative coverage
+  - `Downloaded-Source-Material/10-Linga-Purana-Key-Chapters-wisdomlib.md` — 816 lines: Ch.17 Lingodbhava (82 verses), Ch.18 Vishnustava (91-verse hymn), Ch.22 Rudrotpatti (birth of 11 Rudras), Ch.65 Rudra-Sahasranama (750+ names), Ch.106 Tandava Dance (Kali/Daruka context)
+- **2026-05-05 (Session 5):** Parvati-khanda tests, Bhagavata Purana Neelkanth, Wikipedia on Kailash/Nandi/Bhairava/Nataraja/Shiva. New files created:
+  - `Downloaded-Source-Material/11-Bhagavata-Purana-Samudra-Manthan-Neelkanth.md` — Bhagavata 8.5-8.9 (wisdomlib): Durvasa's curse, churning plan, Mandara/Vasuki, Halahala, prayer to Shiva (verses 8.7.21-35: cosmic form), Shiva drinks poison (v.8.7.41-42), throat turns blue, 14 Ratnas with verse references; includes Tagare translation direct quotes and episode writing notes
+  - `Downloaded-Source-Material/12-Wikipedia-Kailash-Nandi-Bhairava-Nataraja-Rudraksha-Shiva.md` — 110KB: Full Wikipedia articles for Mount Kailash (geography, pilgrimage route), Nandi (legend, iconography), Bhairava (8 Ashta Bhairava forms, Brahma decapitation story), Nataraja (complete iconography, Chola art, CERN), Rudraksha (all 21 bead types, chemical composition), Shiva main article (comprehensive — Vedic origins, all forms, all festivals, global presence)
+  - `Downloaded-Source-Material/13-Shiva-Purana-Parvati-Tests-Acceptance.md` — All 55 Parvati-khanda doc IDs verified; Ch.21-28 (Narada → penance → family opposition → Shiva's consent → Seven Sages → disguised Brahmin → Shiva reveals himself: "I am your slave"); Ch.32-33,36 (Himavat persuaded → final betrothal)
 
-*Data last updated: 2026-05-05 — 29 research files, all 18 Mahapuranas + Devi Bhagavata covered*
+- **2026-05-05 (Session 6):** Kartikeya birth arc, Ganga/Shivaratri/Bhagiratha research, remaining Purana Wikipedia articles. New files:
+  - `Downloaded-Source-Material/14-Shiva-Purana-Kumara-Kartikeya-Birth.md` — Kumara-khanda Ch. doc226120-140: Tarakasura's crafty boon, seed journey (Agni → Ganga → Krittikas' Sara grass), six-faced miracle nursing, Kartikeya vs. Taraka final battle (all 4 champions who fought before him), Ganesha chapters follow immediately
+  - `Downloaded-Source-Material/15-Wikipedia-Ganga-Shivaratri-Bhagiratha-Tarakasura-Ardhanarishvara.md` — 70KB: Gangadhara, Maha Shivaratri (all 4 legends + all rituals + global observance), Bhagiratha (Kapila's curse → two tapasyas → Ganga through Shiva's hair → Jahnu episode), Tarakasura (Vajranga/Vajrangi lineage, Kalidasa's Kumarasambhava), Ardhanarishvara (Kushan origins, all 4 legends, Bhringi bee-sage story), Dakshinamurthy (silent teaching paradox, complete Stotra)
+  - `Downloaded-Source-Material/16-Wikipedia-Padma-Matsya-Vishnu-Bhagavata-Brahmanda-Linga-Puranas.md` — 6 full Wikipedia Purana articles: Padma (Shiva Gita in Uttarakhanda), Matsya (oldest Purana, ecological verses), Vishnu (6 Amsas), Bhagavata (all 12 cantos with Shiva passages flagged), Brahmanda (Lalita Sahasranama), Linga (163 chapters, Pashupata philosophy)
+
+- **2026-05-05 (Session 7):** Ganesha birth arc, Mahabharata Shiva content, Vayaviya Samhita + Jyotirlingas. New files:
+  - `Downloaded-Source-Material/17-Shiva-Purana-Ganesha-Birth.md` — All 8 Kumara-khanda Ganesha chapters (doc226133-226140): body scurf creation, Ganas vs Ganesha dialogue, battle, beheading by Vishnu's deception, Parvati's fury/Kali form, elephant head restoration, coronation as Gana-lord, marriage contest (parents = earth), wives Siddhi and Buddhi
+  - `Downloaded-Source-Material/18-Wikipedia-Mahabharata-Shiva-Kirata-Pashupata-Banasura.md` — Kiratarjuniya (all 18 cantos, extraordinary linguistic feats), Pashupatastra, Upamanyu, Banasura (Usha-Aniruddha + Shiva vs Krishna battle), Shiva Tandava Stotram legend, Kailash Mansarovar pilgrimage
+  - `Downloaded-Source-Material/19-Shiva-Purana-Vayaviya-Ganga-Jyotirlinga.md` — 54KB: Vayaviya-Samhita philosophy (Pasu-Pasa-Pati, grace verse); Jalandhara arc (birth → conquest → Kirtimukha → Vrinda's chastity → Shiva's victory); 8 Jyotirlinga origin stories with full chapter verses (Somnath, Mallikarjuna, Mahakala with Candrasena story 78 verses, Omkareshvara, Kedarnath, Bhimashankara, Kashi-Vishwanath, Tryambakeshvara)
+
+- **2026-05-05 (Session 8):** All 12 Jyotirlingas complete, Shaivism philosophy, Kurma Purana Ishvara Gita. New files:
+  - `Downloaded-Source-Material/20-Shiva-Purana-Remaining-Jyotirlingas.md` — Final 4: Vaidyanatha (Ravana 9-head sacrifice, cowherd accident), Nageshvara (Pashupata missile), Rameshvara (Rama's full prayer text, Shiva blesses victory over his own devotee), Ghrishneshvara (Ghushma's extraordinary equanimity); closes complete 12-Jyotirlinga cycle
+  - `Downloaded-Source-Material/21-Wikipedia-Shaivism-Philosophy-Schools-Markandeya.md` — All 5 Shaiva schools + Markandeya story (Kalantaka, Pralaya vision with baby Vishnu, Mahabharata role)
+  - `Downloaded-Source-Material/22-Kurma-Purana-Ishvara-Gita-wisdomlib.md` — All 11 Ishvara Gita chapters from Tagare (1982) + Kannoo Mal (1924) translations; Chapters 1-11 detailed; Ashta Murtis, Pashupata Yoga, Bhakti as supreme path; Hari-Hara embrace opening
+
+*Data last updated: 2026-05-05 — 51 research files (22 in Downloaded-Source-Material), all 18 Mahapuranas + Devi Bhagavata covered*
