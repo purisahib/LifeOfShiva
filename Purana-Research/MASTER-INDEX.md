@@ -11,6 +11,40 @@ Purana-Research/
 │
 ├── MASTER-INDEX.md (this file)
 │
+├── PDF-Books/                           ← HINDI PDF BOOKS (vedpuran.net + Ravan Samhita)
+│   ├── 01-Shiv-Puran.pdf               (49 MB)
+│   ├── 02-Ling-Puran.pdf               (14 MB)
+│   ├── 03-Agni-Puran.pdf               (57 MB)
+│   ├── 04-Bhagwat-Puran.pdf            (63 MB)
+│   ├── 05-Bhavishya-Puran.pdf          (27 MB)
+│   ├── 06-Brahma-Puran.pdf             (36 MB)
+│   ├── 07-Brahmanda-Puran-1.pdf        (52 MB)
+│   ├── 08-Brahmanda-Puran-2.pdf        (25 MB)
+│   ├── 09-Garuda-Puran.pdf             (32 MB)
+│   ├── 10-Kurma-Puran.pdf              (22 MB)
+│   ├── 11-Markandeya-Puran.pdf         (18 MB)
+│   ├── 12-Matsya-Puran-1.pdf           (27 MB)
+│   ├── 13-Matsya-Puran-2.pdf           (26 MB)
+│   ├── 14-Narada-Puran.pdf             (47 MB)
+│   ├── 15-Padma-Puran.pdf              (72 MB)
+│   ├── 16-Skanda-Puran.pdf             (74 MB)
+│   ├── 17-Brahmavaivarta-Puran.pdf     (52 MB)
+│   ├── 18-Vamana-Puran.pdf             (12 MB)
+│   ├── 19-Varaha-Puran.pdf             (24 MB)
+│   ├── 20-Vishnu-Puran.pdf             (40 MB)
+│   ├── 21-Narasimha-Puran.pdf          (20 MB)
+│   ├── 22-Rigveda.pdf                  (34 MB)
+│   ├── 23-Samaveda.pdf                 (16 MB)
+│   ├── 24-Yajurveda.pdf                (22 MB)
+│   ├── 25-Atharvaveda-1.pdf            (22 MB)
+│   ├── 26-Atharvaveda-2.pdf            (19 MB)
+│   ├── 27-Ravan-Samhita-1.pdf          (53 MB)
+│   ├── 28-Ravan-Samhita-2.pdf          (82 MB)
+│   ├── 29-Ravan-Samhita-3.pdf          (220 MB)
+│   ├── 30-Ravan-Samhita-4.pdf          (116 MB)
+│   └── 31-Ravan-Samhita-5.pdf          (52 MB)
+│   [Total: 31 PDFs — ~1.4 GB — all in Hindi]
+│
 ├── Downloaded-Source-Material/          ← PRIMARY INTERNET-DOWNLOADED CONTENT
 │   ├── 01-Shiva-Purana-Complete-TOC-wisdomlib.md       ← 457-chapter TOC (wisdomlib)
 │   ├── 02-Linga-Purana-Complete-TOC-wisdomlib.md       ← 163-chapter TOC (wisdomlib)
@@ -457,4 +491,10 @@ SHIVA (Paramashiva — the Absolute)
   - `Downloaded-Source-Material/21-Wikipedia-Shaivism-Philosophy-Schools-Markandeya.md` — All 5 Shaiva schools + Markandeya story (Kalantaka, Pralaya vision with baby Vishnu, Mahabharata role)
   - `Downloaded-Source-Material/22-Kurma-Purana-Ishvara-Gita-wisdomlib.md` — All 11 Ishvara Gita chapters from Tagare (1982) + Kannoo Mal (1924) translations; Chapters 1-11 detailed; Ashta Murtis, Pashupata Yoga, Bhakti as supreme path; Hari-Hara embrace opening
 
-*Data last updated: 2026-05-05 — 51 research files (22 in Downloaded-Source-Material), all 18 Mahapuranas + Devi Bhagavata covered*
+- **2026-05-06 (Session 9):** All 18 Mahapuranas + Vedas + Ravan Samhita downloaded as Hindi PDF books from vedpuran.net.
+  - `PDF-Books/` folder created with **31 PDFs (~1.4 GB total)**
+  - PDFs 01–21: All 18 Mahapuranas + Devi Bhagavata + Narasimha Upapurana (Hindi, vedpuran.net 2011)
+  - PDFs 22–26: All 4 Vedas — Rigveda, Samaveda, Yajurveda, Atharvaveda (2 parts)
+  - PDFs 27–31: Ravan Samhita in 5 volumes (vedpuran.net 2021 — Ravana's tantric scripture)
+
+*Data last updated: 2026-05-06 — 51 research files (22 in Downloaded-Source-Material) + 31 Hindi PDFs (~1.4 GB), all 18 Mahapuranas + Devi Bhagavata + 4 Vedas + Ravan Samhita covered*
