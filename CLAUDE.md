@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**"शिव : महागाथा" (Shiva: The Epic)** — A serialized Hindi audiobook for the **Pocket FM** platform. The full scope is **360 Arcs × 7 chapters = 2,520 अध्याय (chapters)** across **11 खण्ड (narrative books)**, narrating the complete mythological life of Lord Shiva from the primordial void to the present age.
+**"शिव महागाथा"** (Hindi title; English brand: **"Life of Shiva"**) — A serialized Hindi audiobook for the **Pocket FM** platform. Headers/titles use the Hindi name "शिव महागाथा"; the one English exception is the fixed signature outro at the end of every chapter — `आगे क्या होगा — उसके लिए सुनते रहिए, Life of Shiva।` The full scope is **360 Arcs × 7 chapters = 2,520 अध्याय (chapters)** across **11 खण्ड (narrative books)**, narrating the complete mythological life of Lord Shiva from the primordial void to the present age.
 
 This is a **creative-writing project, not a software codebase** — there is no build, test, or run step. "Working in this repo" means planning, writing, and fact-checking Hindi episode prose.
 
